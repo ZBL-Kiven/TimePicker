@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-
+apply plugin: 'maven-publish'
 
 android {
     compileSdkVersion 31
@@ -15,7 +15,7 @@ android {
 
 allprojects {
     tasks.withType(Javadoc) {//兼容中文字符
-        options{
+        options {
             encoding "UTF-8"
             charSet 'UTF-8'
             links "http://docs.oracle.com/javase/7/docs/api"
@@ -26,3 +26,5 @@ allprojects {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
 }
+
+apply from: "upload.gradle"
