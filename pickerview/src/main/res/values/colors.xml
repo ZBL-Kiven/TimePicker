@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pickerview_timebtn_nor">#FFEF7300</color>
+    <color name="pickerview_timebtn_pre">#A7EF7300</color>
+    <color name="pickerview_cancel_btn_nor">#FFFFFFFF</color>
+    <color name="pickerview_cancel_btn_pre">#A0FFFFFF</color>
+    <color name="pickerview_bg_topbar">#202225</color>
+    <color name="pickerview_bg_content">#202225</color>
+
+    <color name="pickerview_topbar_title">#FFFFFFFF</color>
+    <color name="pickerview_bgColor_overlay">#60000000</color>
+
+</resources>

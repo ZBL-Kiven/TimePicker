@@ -1,0 +1,95 @@
+com.bigkoo.pickerview.R$drawable: R$drawable()
+com.bigkoo.pickerview.R$id: int year
+com.bigkoo.pickerview.R$string: int pickerview_seconds
+com.bigkoo.pickerview.R$anim: int pickerview_dialog_scale_out
+com.bigkoo.pickerview.R$attr: int wheelview_lineSpacingMultiplier
+com.bigkoo.pickerview.R$layout: int layout_basepickerview
+com.bigkoo.pickerview.R$attr: R$attr()
+com.bigkoo.pickerview.R$string: int pickerview_submit
+com.bigkoo.pickerview.R
+com.bigkoo.pickerview.R$layout
+com.bigkoo.pickerview.R$style: int custom_dialog2
+com.bigkoo.pickerview.R$integer
+com.bigkoo.pickerview.R$color
+com.bigkoo.pickerview.R$styleable: int pickerview_wheelview_gravity
+com.bigkoo.pickerview.R$id: R$id()
+com.bigkoo.pickerview.R$id: int hour
+com.bigkoo.pickerview.R$dimen: R$dimen()
+com.bigkoo.pickerview.R$layout: int include_pickerview_topbar
+com.bigkoo.pickerview.R$string: int pickerview_year
+com.bigkoo.pickerview.view.EnglishMonthWheelView: EnglishMonthWheelView(android.content.Context)
+com.bigkoo.pickerview.R$styleable: R$styleable()
+com.bigkoo.pickerview.R$attr: int wheelview_textSize
+com.bigkoo.pickerview.R$id: int options2
+com.bigkoo.pickerview.R$id: int optionspicker
+com.bigkoo.pickerview.R$dimen: int pickerview_textsize
+com.bigkoo.pickerview.R$string: int pickerview_day
+com.bigkoo.pickerview.R$id: int day
+com.bigkoo.pickerview.R$color: R$color()
+com.bigkoo.pickerview.R$dimen: int pickerview_topbar_height
+com.bigkoo.pickerview.R$anim: int pickerview_dialog_scale_in
+com.bigkoo.pickerview.R$integer: int animation_default_duration
+com.bigkoo.pickerview.R$dimen
+com.bigkoo.pickerview.R$id: int btnCancel
+com.bigkoo.pickerview.R$mipmap: int ic_selector_picker_sanjiao
+com.bigkoo.pickerview.R$attr: int wheelview_dividerColor
+com.bigkoo.pickerview.R$style: int picker_view_scale_anim
+com.bigkoo.pickerview.R$styleable: int pickerview_wheelview_dividerColor
+com.bigkoo.pickerview.R$id: int timepicker
+com.bigkoo.pickerview.R$id: int center
+com.bigkoo.pickerview.R$string
+com.bigkoo.pickerview.R$styleable: int pickerview_wheelview_textColorOut
+com.bigkoo.pickerview.R$id: int min
+com.bigkoo.pickerview.R$color: int pickerview_bg_topbar
+com.bigkoo.pickerview.R$mipmap: R$mipmap()
+com.bigkoo.pickerview.R$anim: R$anim()
+com.bigkoo.pickerview.R$id: int options1
+com.bigkoo.pickerview.R$color: int pickerview_timebtn_nor
+com.bigkoo.pickerview.R$attr: int wheelview_textColorCenter
+com.bigkoo.pickerview.R$layout: int pickerview_time
+com.bigkoo.pickerview.R$anim: int pickerview_slide_in_bottom
+com.bigkoo.pickerview.R$attr
+com.bigkoo.pickerview.R$id: int tvTitle
+com.bigkoo.pickerview.R$mipmap
+com.bigkoo.pickerview.R$styleable: int pickerview_wheelview_textColorCenter
+com.bigkoo.pickerview.R$dimen: int pickerview_topbar_btn_textsize
+com.bigkoo.pickerview.view.EnglishMonthWheelView
+com.bigkoo.pickerview.R$color: int pickerview_bgColor_overlay
+com.bigkoo.pickerview.R$id: int options3
+com.bigkoo.pickerview.R$string: R$string()
+com.bigkoo.pickerview.R$styleable
+com.bigkoo.pickerview.R$dimen: int pickerview_topbar_padding
+com.bigkoo.pickerview.R$id: int left
+com.bigkoo.pickerview.R$attr: int wheelview_textColorOut
+com.bigkoo.pickerview.R$integer: R$integer()
+com.bigkoo.pickerview.R$string: int pickerview_hours
+com.bigkoo.pickerview.R$anim: int pickerview_slide_out_bottom
+com.bigkoo.pickerview.R$styleable: int pickerview_wheelview_lineSpacingMultiplier
+com.bigkoo.pickerview.R$id: int right
+com.bigkoo.pickerview.R$style: int picker_view_slide_anim
+com.bigkoo.pickerview.R$layout: int pickerview_options
+com.bigkoo.pickerview.R$string: int pickerview_cancel
+com.bigkoo.pickerview.R$style: R$style()
+com.bigkoo.pickerview.R$anim
+com.bigkoo.pickerview.R$color: int pickerview_topbar_title
+com.bigkoo.pickerview.R$id: int content_container
+com.bigkoo.pickerview.R$color: int pickerview_timebtn_pre
+com.bigkoo.pickerview.R$id
+com.bigkoo.pickerview.R$id: int month
+com.bigkoo.pickerview.R$string: int pickerview_minutes
+com.bigkoo.pickerview.R$drawable: int selector_picker_shape_fragment_bg
+com.bigkoo.pickerview.R$style
+com.bigkoo.pickerview.R$drawable: int selector_pickerview_btn
+com.bigkoo.pickerview.R$attr: int wheelview_gravity
+com.bigkoo.pickerview.R: R()
+com.bigkoo.pickerview.R$string: int pickerview_month
+com.bigkoo.pickerview.R$styleable: int[] pickerview
+com.bigkoo.pickerview.R$id: int btnSubmit
+com.bigkoo.pickerview.R$drawable
+com.bigkoo.pickerview.R$layout: R$layout()
+com.bigkoo.pickerview.R$styleable: int pickerview_wheelview_textSize
+com.bigkoo.pickerview.R$id: int outmost_container
+com.bigkoo.pickerview.R$id: int second
+com.bigkoo.pickerview.view.EnglishMonthWheelView: EnglishMonthWheelView(android.content.Context,android.util.AttributeSet)
+com.bigkoo.pickerview.R$id: int rv_topbar
+com.bigkoo.pickerview.R$dimen: int pickerview_topbar_title_textsize
