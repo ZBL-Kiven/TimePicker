@@ -43,7 +43,7 @@ afterEvaluate {
                     username = USERNAME
                     password = PASSWORD
                 }
-                url = version.endsWith('SNAPSHOT') ? MAVEN_REPO_RELEASE_URL : MAVEN_REPO_SNAPSHOT_URL
+                url = version.endsWith('SNAPSHOT') ? MAVEN_REPO_SNAPSHOT_URL : MAVEN_REPO_RELEASE_URL
             }
         }
     }
